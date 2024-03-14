@@ -37,7 +37,7 @@ The Contact Management API allows users to register, log in, and perform CRUD op
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brijesh1802/Contacts-Management.git
+   git clone https://github.com/yathish89/Contacts-Management.git
 
 2. Navigate to the project directory:
    ```bash
@@ -77,11 +77,4 @@ The Contact Management API allows users to register, log in, and perform CRUD op
 4. Push to the branch (git push origin feature/your-feature).
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License.
-
-# Contact
-
-* Name : Brijesh Jaya Poojary.
-* Email : brijeshpujari333@gmail.com.
